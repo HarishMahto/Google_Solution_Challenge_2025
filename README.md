@@ -46,8 +46,21 @@ A real-time AI-powered system designed to **reduce urban traffic congestion**, *
 
 ## 🎯 Sustainable Development Goal (SDG)
 
-✅ **SDG 11: Sustainable Cities and Communities**  
-We aim to build smart infrastructure that reduces traffic congestion, lowers emissions, and enhances emergency response times.
+## 🎯 Alignment with United Nations Sustainable Development Goals (SDGs)
+
+ 🌆 **Goal 11: Sustainable Cities** 
+ Smarter traffic flow and cleaner air quality through optimized signaling 
+ 🏥 **Goal 3: Good Health** 
+ Quicker ambulance routing, reducing emergency response delays 
+ 🏗️ **Goal 9: Industry & Infrastructure** 
+ Leverages AI and IoT for next-gen smart road infrastructure 
+ 🌱 **Goal 13: Climate Action**
+ | Reduced idle time leads to fewer emissions 
+ ♻️ **Goal 12: Responsible Consumption** 
+ Efficient use of resources and minimal system overhead 
+ 💼 **Goal 8: Decent Work & Economic Growth** 
+ Enhances urban productivity and creates new tech-based job roles 
+
 
 ---
 
