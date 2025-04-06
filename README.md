@@ -1,5 +1,5 @@
 # DirecTo🚦 Smart Traffic Management System Using Edge Computing  
-### *Google Solution Challenge 2025 – SDG 11: Sustainable Cities and Communities*
+### *Google Solution Challenge 2025 – Open Innovation*
 <img src="https://github.com/user-attachments/assets/51a3469b-7e6e-4f44-bc2d-94d94b8b4f04" height="400"/>
 
 
