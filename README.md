@@ -91,3 +91,24 @@ B --> E[Emergency Vehicle Detected]
 E --> F[Green Corridor Creation]
 D & F --> G[Firebase Sync]
 G --> H[Android App Display]
+```
+
+
+## **Team Members**  
+<p align="center">
+    <a href="https://github.com/HarishMahto">
+        <img src="https://github.com/HarishMahto.png" width="80" height="80" style="border-radius: 50%;" alt="HarishMahto">
+    </a>
+    <a href="https://github.com/Somie12">
+        <img src="https://github.com/Somie12.png" width="80" height="80" style="border-radius: 50%;" alt="Somie12">
+    </a>
+    <a href="https://github.com/Diksha566">
+        <img src="https://github.com/Diksha566.png" width="80" height="80" style="border-radius: 50%;" alt="Diksha566">
+    </a>
+    <a href="https://github.com/YashaswiniMishra">
+        <img src="https://github.com/YashaswiniMishra.png" width="80" height="80" style="border-radius: 50%;" alt="YashaswiniMishra">
+    </a>
+    
+    
+</p>
+
